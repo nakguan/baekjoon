@@ -8,7 +8,7 @@ public class Teret_1002 {
 		if(n==0){
 			check[0]++;
 			return 0;
-		}else if(n==1){
+		}else if(n==1){6
 			check[1]++;
 			return 1;
 		} else{
